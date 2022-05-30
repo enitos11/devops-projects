@@ -1,1 +1,12 @@
-
+# #WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
+![prjct step 2](https://user-images.githubusercontent.com/105660679/171001364-3c5673f9-3f23-484b-b065-ee4c28bfb250.JPG)
+![prjt 4](https://user-images.githubusercontent.com/105660679/171001513-92e06161-c4b6-4465-959d-34a56b5f9a70.JPG)
+![prjct step 2](https://user-images.githubusercontent.com/105660679/171001640-18b24ecc-1ea5-4fed-898f-071b48d34f88.JPG)
+![prjt 4](https://user-images.githubusercontent.com/105660679/171001665-965d5967-96bf-438c-81e3-dd0cc75fad54.JPG)
+![prjt 5](https://user-images.githubusercontent.com/105660679/171001696-3c4e1d78-db5c-46c2-8d0d-a457329ea962.JPG)
+![prjt step 3](https://user-images.githubusercontent.com/105660679/171001735-b21c95d2-7f72-4c37-ab25-ded2f53d29ff.JPG)
+![project 1, step 6](https://user-images.githubusercontent.com/105660679/171001793-e497a53d-c4f0-4048-bd24-42b695701ebd.JPG)
+![project 1, step 7](https://user-images.githubusercontent.com/105660679/171001820-04324aab-37dd-4f64-bc7c-3a2f14c210f9.JPG)
+![project 1, step 7](https://user-images.githubusercontent.com/105660679/171002108-f0905bfd-6405-4779-8220-c0f9dac8dabb.JPG)
+![project 1](https://user-images.githubusercontent.com/105660679/171002125-3fd11f45-4b6c-4705-a73c-da0c8d8ccf93.JPG)
+![project 1, stp4](https://user-images.githubusercontent.com/105660679/171002257-584cdbb5-7e5b-4d76-b847-6b511ef5a51d.JPG)
