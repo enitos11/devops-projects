@@ -1,0 +1,18 @@
+##Step: Install NodeJs
+Node.js is a JavaScript runtime built on Chrome’s V8 JavaScript engine. Node.js is used in this tutorial to set up the Express routes and AngularJS controllers.
+
+Update ubuntu
+
+sudo apt update
+Upgrade ubuntu
+
+sudo apt upgrade
+Add certificates
+
+sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates
+
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+Install NodeJS
+
+sudo apt install -y nodejs
+![Project 4 step 1](https://user-images.githubusercontent.com/105660679/174585187-9e28f39f-45a6-4571-9cfc-68a2779f414e.JPG)
